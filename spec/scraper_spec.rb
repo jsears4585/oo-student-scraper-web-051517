@@ -9,7 +9,6 @@ describe "Scraper" do
   let!(:student_joe_hash) {{:twitter=>"https://twitter.com/jmburges",
                             :linkedin=>"https://www.linkedin.com/in/jmburges",
                             :github=>"https://github.com/jmburges",
-                            :blog=>"http://joemburgess.com/",
                             :profile_quote=>"\"Reduce to a previously solved problem\"",
                             :bio=>
   "I grew up outside of the Washington DC (NoVA!) and went to college at Carnegie Mellon University in Pittsburgh. After college, I worked as an Oracle consultant for IBM for a bit and now I teach here at The Flatiron School."}}
